@@ -1,0 +1,50 @@
+Student_ID,Gender,Student_Email,Student_Blood_Group,Student_DOB,Student_PhoneNumber,Student_Adress,Parent_Name,Parent_PhoneNumber,COUNTRY
+210,Male,Srikanth@neu.edu.in,A+,1997-11-22,9184949803,"7679 Foster St. Little Rock, AR 72209","Pathi Sai ",8477853627,CHINA
+211,Female,Shraman@neu.edu.in,B-,1997-04-17,9595349295,"445 Lookout Ave. Garland, TX 75043","Manu J Nair",8481651869,INDIA
+212,Male,Bhanu@neu.edu.in,A+,1997-12-03,9523030431,"9065 Stonybrook Ave. Hummelstown, PA 17036","Md Arif ",9143489714,AMERICA
+213,Male,"Mahima Dahiya@neu.edu.in",AB-,1997-10-29,9943109633,"534 East Lane. Fayetteville, NC 28303","Gulam ",8469703607,AUSTRALIA
+214,Female,Gowtham@neu.edu.in,B+,1996-09-24,9148159380,"9839 Wayne St. Allentown, PA 18102",Lovish,8891754737,"U K"
+215,Male,Maniteja@neu.edu.in,AB+,1998-12-10,9174909957,"598 Magnolia Street Easton, PA 18042","M Mithila",6801601197,JAPAN
+216,Male,Naman@neu.edu.in,O-,1996-10-08,9315119871,"94 Iroquois St. Chesterfield, VA 23832","Kopalli Saikrishna",9529132912,CHINA
+217,Male,"Narla Anjan@neu.edu.in",O+,1997-02-23,9063705100,"9070 E. Fairground St. New Rochelle, NY 10801","Kotagiri Akshay",6657159948,INDIA
+218,Male,"Narla Vishnu@neu.edu.in",A+,1996-09-18,9351773370,"794 Carriage St. Huntsville, AL 35803","Kunal Sanjay",7213243350,AMERICA
+219,Male,Nimish@neu.edu.in,B-,1997-12-14,9536243826,"83 3rd Street Grayslake, IL 60030","Kush Rawal",9929868366,AUSTRALIA
+220,Female,"Nitin Jangid@neu.edu.in",A+,1998-04-03,9382599793,"680 North Saxon Street Glendale, AZ 85302",Lovish,9596893676,"U K"
+221,Female,"Kailasa Rahul@neu.edu.in",AB-,1996-06-16,9402407347,"5 Augusta St. Manitowoc, WI 54220","M Mithila",7010617408,JAPAN
+222,Female,"Kakarla Udayasree@neu.edu.in",B+,1998-09-30,9372309468,"828 Manchester Ave. Midland, MI 48640","M Roop",8756805051,CHINA
+223,Male,"Kalluri Vinay@neu.edu.in",AB+,1997-03-11,9304007078,"7679 Foster St. Little Rock, AR 72209","Sandeep Jogiparthi",9981473885,INDIA
+224,Male,Swaroop@neu.edu.in,O-,1996-11-22,9493613198,"445 Lookout Ave. Garland, TX 75043","Maturi Bahavana",7748790226,AMERICA
+225,Female,Shreya@neu.edu.in,O+,1998-06-19,9978418547,"9065 Stonybrook Ave. Hummelstown, PA 17036","Meesala Ragha",8375241214,AUSTRALIA
+226,Male,"Kanti Sudha@neu.edu.in",A+,1996-01-23,9973526847,"534 East Lane. Fayetteville, NC 28303","Meghna Goel",6141540004,"U K"
+227,Male,"Karan Bhatia@neu.edu.in",B-,1996-10-02,9624883734,"9839 Wayne St. Allentown, PA 18102","Mutta Praneeth ",9808550175,JAPAN
+228,Female,"Karan Setia@neu.edu.in",A+,1996-04-22,9605952836,"598 Magnolia Street Easton, PA 18042",Sriman,6785170327,CHINA
+229,Male,Karanati@neu.edu.in,AB-,1998-11-03,9402878906,"94 Iroquois St. Chesterfield, VA 23832","Mahima Dahiya",6228283009,INDIA
+230,Male,"Karri Sankar@neu.edu.in",B+,1997-09-17,9707239064,"9070 E. Fairground St. New Rochelle, NY 10801",Gowtham,6049931252,AMERICA
+231,Male,"Karunakar Reddy@neu.edu.in",AB+,1996-04-21,9599746143,"794 Carriage St. Huntsville, AL 35803",Maniteja,6807340373,AUSTRALIA
+232,Female,"Kashika Mehta@neu.edu.in",O-,1997-03-04,9960006702,"83 3rd Street Grayslake, IL 60030",Naman,6152696803,"U K"
+233,Female,"Kasipuri Nootan@neu.edu.in",O+,1997-06-10,9948527339,"680 North Saxon Street Glendale, AZ 85302","Narla Anjan",7198416924,JAPAN
+234,Female,Katakam@neu.edu.in,A+,1996-01-28,9417970699,"5 Augusta St. Manitowoc, WI 54220","Narla Vishnu",6309174135,CHINA
+235,Male,"Katha Sai@neu.edu.in",B-,1998-03-04,9761186404,"828 Manchester Ave. Midland, MI 48640",Nimish,8366753224,INDIA
+236,Male,Kavya@neu.edu.in,A+,1996-12-10,9429265885,"7679 Foster St. Little Rock, AR 72209","Nitin Jangid",9996115256,AMERICA
+237,Male,"Kitu Pandya@neu.edu.in",AB-,1997-06-17,9550346096,"445 Lookout Ave. Garland, TX 75043","Kailasa Rahul",9149813566,AUSTRALIA
+238,Female,"Kommineni Sri@neu.edu.in",B+,1997-02-26,9870536045,"9065 Stonybrook Ave. Hummelstown, PA 17036","Kakarla Udayasree",8490840970,"U K"
+239,Male,"Konda Sai Prakash@neu.edu.in",AB+,1998-08-29,9529790393,"534 East Lane. Fayetteville, NC 28303","Kalluri Vinay",6175998953,JAPAN
+240,Female,"Kopalli Saikrishna@neu.edu.in",O-,1996-07-02,9407669990,"9839 Wayne St. Allentown, PA 18102",Swaroop,7264747712,CHINA
+241,Female,"Kotagiri Akshay@neu.edu.in",O+,1998-11-10,9310344911,"598 Magnolia Street Easton, PA 18042",Shreya,6675041613,INDIA
+242,Female,"Kunal Sanjay@neu.edu.in",A+,1998-10-15,9813137884,"94 Iroquois St. Chesterfield, VA 23832","Kanti Sudha",9823225180,AMERICA
+243,Female,"Kush Rawal@neu.edu.in",B-,1997-05-13,9100891230,"9070 E. Fairground St. New Rochelle, NY 10801","Karan Bhatia",8540888798,CHINA
+244,Male,Lovish@neu.edu.in,A+,1997-01-29,9605128724,"794 Carriage St. Huntsville, AL 35803",Swaroop,8380648121,"U K"
+245,Female,"M Mithila@neu.edu.in",AB-,1997-12-15,9563056998,"83 3rd Street Grayslake, IL 60030",Shreya,6329293787,JAPAN
+246,Female,"M Roop@neu.edu.in",B+,1998-04-27,9827911571,"680 North Saxon Street Glendale, AZ 85302","Kanti Sudha",8293863641,CHINA
+247,Male,"Sandeep Jogiparthi@neu.edu.in",AB+,1997-12-02,9030117959,"5 Augusta St. Manitowoc, WI 54220","Karan Bhatia",9061672429,INDIA
+248,Female,"Maturi Bahavana@neu.edu.in",O-,1996-11-20,9136252065,"828 Manchester Ave. Midland, MI 48640","Karan Setia",9699486007,CHINA
+249,Male,"Meesala Ragha@neu.edu.in",O+,1996-01-28,9762386444,"7679 Foster St. Little Rock, AR 72209",Karanati,8706003412,AUSTRALIA
+250,Male,"Meghna Goel@neu.edu.in",A+,1996-08-07,9253935819,"445 Lookout Ave. Garland, TX 75043","Karri Sankar",8792846455,CHINA
+251,Female,"Mutta Praneeth @neu.edu.in",B-,1997-06-19,9778236637,"9065 Stonybrook Ave. Hummelstown, PA 17036","Karunakar Reddy",8252684452,INDIA
+252,Male,Sriman@neu.edu.in,A+,1996-10-29,9746828346,"534 East Lane. Fayetteville, NC 28303","Kashika Mehta",7528210574,AMERICA
+253,Female,"Nayakar Rohith@neu.edu.in",AB-,1996-09-13,9397466337,"9839 Wayne St. Allentown, PA 18102","Kasipuri Nootan",9503133652,CHINA
+254,Male,"Nikhil Yadav@neu.edu.in",B+,1996-10-05,9892217930,"598 Magnolia Street Easton, PA 18042",Naman,8056739490,INDIA
+255,Female,"Pathi Sai @neu.edu.in",AB+,1998-02-16,9082737493,"94 Iroquois St. Chesterfield, VA 23832","Narla Anjan",7984873737,CHINA
+256,Male,"Manu J Nair@neu.edu.in",O-,1997-01-25,9087225503,"9070 E. Fairground St. New Rochelle, NY 10801","Narla Vishnu",9670702224,AUSTRALIA
+257,Male,"Md Arif @neu.edu.in",O+,1996-10-29,9017981683,"794 Carriage St. Huntsville, AL 35803",Nimish,7296922574,CHINA
+258,Male,"Gulam @neu.edu.in",O-,1997-12-11,9158160812,"83 3rd Street Grayslake, IL 60030","Nitin Jangid",8378366797,JAPAN
